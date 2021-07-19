@@ -3,7 +3,7 @@
 
 ## Финальные проекты:
 | № | Проект   | Описание                                                    | Инструменты |
-|---|----------|--------|------------------------------------------------------------|-------------|
+|---|----------|------------------------------------------------------------|-------------|
 |1  |[Анализ рекламных источников мобильной игры](https://nbviewer.jupyter.org/github/obormosha/dataAnalysisProjects/blob/76d90dc51e61f9ac611bef084b04aa47c73d8d27/12_final_project/final_main_project/final_main_project.ipynb)|Анализ источников перехода в игру для определения эффективности маркетинговых расходов, оптимальных стратегий игроков, модель монетизации|python, pandas, numpy, scipy, matplotlib, seaborn|
 |2  |[Анализ результатов А/В-тестирования](https://nbviewer.jupyter.org/github/obormosha/dataAnalysisProjects/blob/76d90dc51e61f9ac611bef084b04aa47c73d8d27/12_final_project/final_project_ab/final_project_ab.ipynb)|Оценка корректности проведенного теста согласно технического задания, оценка результатов теста|python, pandas, scipy, math, matplotlib, seaborn, plotly|
 |3  |[Анализ таблиц базы данных](https://nbviewer.jupyter.org/github/obormosha/dataAnalysisProjects/blob/76d90dc51e61f9ac611bef084b04aa47c73d8d27/12_final_project/final_project_sql/final_project_sql.ipynb)|Поключение к базе данных, создание SQL-запросов|python, pandas, sqlalchemy|
