@@ -1,7 +1,15 @@
 # Data Analysis Projects
 Проекты, реализованные во время обучения по специальности "Аналитик данных" в Яндекс.Практикум. Полное отображение графических составляющих ноутбуков доступно по ссылкам ниже (по ссылкам проекты открываются через nbviewer).
+
+## Финальные проекты:
+| № | Проект   | Описание                                                    | Инструменты |
+|---|----------|--------|------------------------------------------------------------|-------------|
+|1  |[Анализ рекламных источников мобильной игры](https://nbviewer.jupyter.org/github/obormosha/dataAnalysisProjects/blob/76d90dc51e61f9ac611bef084b04aa47c73d8d27/12_final_project/final_main_project/final_main_project.ipynb)|Анализ источников перехода в игру для определения эффективности маркетинговых расходов, оптимальных стратегий игроков, модель монетизации|python, pandas, numpy, scipy, matplotlib, seaborn|
+|2  |[Анализ результатов А/В-тестирования](https://nbviewer.jupyter.org/github/obormosha/dataAnalysisProjects/blob/76d90dc51e61f9ac611bef084b04aa47c73d8d27/12_final_project/final_project_ab/final_project_ab.ipynb)|Оценка корректности проведенного теста согласно технического задания, оценка результатов теста|python, pandas, scipy, math, matplotlib, seaborn, plotly|
+|3  |[Анализ таблиц базы данных](https://nbviewer.jupyter.org/github/obormosha/dataAnalysisProjects/blob/76d90dc51e61f9ac611bef084b04aa47c73d8d27/12_final_project/final_project_sql/final_project_sql.ipynb)|Поключение к базе данных, создание SQL-запросов|python, pandas, sqlalchemy|
  
- ## Описание проектов:
+
+ ## Описание проектов по темам:
 | № | Проект   | Тема   |Описание                                                    | Инструменты |
 |---|----------|--------|------------------------------------------------------------|-------------|
 |1  |[Исследование надежности заемщиков](https://nbviewer.jupyter.org/github/obormosha/dataAnalysisProjects/blob/6973ad87139d3c5e69f50d0558961baa622c0dc4/01_analysis_of_%20bank%27s_borrowers_reliability/1_data_preprocessing.ipynb)|Предобработка данных|Анализ факторов, влияющих на погашение кредита в срок, на основе статистики платежеспособности клиентов|python, pandas, numpy, pymystem3|
